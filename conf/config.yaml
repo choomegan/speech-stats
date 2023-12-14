@@ -1,0 +1,6 @@
+batch: 
+audio_dir: 
+manifest_path: 
+
+shift_audio:
+    out_folder: 'shifted-files'
